@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="testproj" parallel="false">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="http://www.baidu.com"/>
+    <test name="testDemo1">
+        <classes>
+            <class name="TestDemo"></class>
+        </classes>
+    </test>
+</suite>
