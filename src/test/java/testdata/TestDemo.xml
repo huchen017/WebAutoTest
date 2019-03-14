@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestDemo>
     <testCase1>
-        <searchText>自动化</searchText>>
+        <searchText>自动化</searchText>
+		<searchText11>自动化</searchText11>
     </testCase1>>
 </TestDemo>
